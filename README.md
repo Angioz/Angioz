@@ -17,6 +17,7 @@
 I'm an **AI enthusiast** and founder who believes technology should serve people — not the other way around.
 
 - **Founder** of [Ultra Skills](https://ultra-skills.com)
+- **Creator** of ScrollEd — EdTech platform (web + mobile)
 - Passionate about building things that actually help people
 - Based in **Italy, EU**
 
